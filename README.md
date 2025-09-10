@@ -1,0 +1,2 @@
+# Deploy-a-container-to-Azure-Container-Apps-with-the-Azure-Command-Line-Interface
+This project, you deploy a containerized application to Azure Container Apps using Azure CLI online Azure portal. You learn how to create a container app environment, deploy your container, and verify that your application is running in Azure.  Tasks:  Create resources in Azure Create an Azure Container. This exercise takes 15 minutes 
